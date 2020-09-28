@@ -1,3 +1,25 @@
+<h1 align="center">
+    <img alt="" title="" src="public/imgs/logo.svg">
+</h1>
+
+<h2 align="center"> Application to connect NGOs and other institutions to people who are available to help </h2>
+
+<h3 align="center"> Created with the stack <img src="imgs/react.png" alt="react" height="18"> React, <img src="imgs/react-native.png" alt="react-native" height="18"> React Native, <img src="imgs/node.png" alt="node" height="18"> Node and <img src="imgs/sqlite.png" alt="node" height="18"> SQLite </h3>
+
+## Screens
+
+<p align="center">
+    <img alt="" title="" src="imgs/print1.png">
+    <img alt="" title="" src="imgs/print2.png">
+    <img alt="" title="" src="imgs/print3.png">
+    <img alt="" title="" src="imgs/print4.png">
+    <img alt="" title="" src="imgs/print5.png">
+    <img alt="" title="" src="imgs/print6.png">
+    <img alt="" title="" src="imgs/print7.png">
+    <img alt="" title="" src="imgs/print8.png">
+    <img alt="" title="" src="imgs/print9.png">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
